@@ -1,0 +1,56 @@
+
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"/image/feather-pen-1.png",
+            "title":"Front-End",
+            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+        },
+        {
+            "id":"2",
+            "src":"./image/feather-pen-2.png",
+            "title":"Front-End",
+            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+        },
+        {
+            "id":"3",
+            "src":"/image/tag-1.png",
+            "title":"Front-End",
+            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+        },
+        {
+            "id":"4",
+            "src":"/image/product-chain-1.png",
+            "title":"Front-End",
+            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+        }
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"/image/3D.png",
+            "title":"3D Card",
+            "description":"Create 3D Card using only CSS",
+            "link":"Visit The Website",
+            "href":"https://animations181.netlify.app/"
+        },
+        {
+            "id":"2",
+            "src":"image/weather.png",
+            "title":"Front-End",
+            "description":"Front-End Api fetching and display the result to the users, Try it it's cool",
+            "link":"Visit The Website",
+            "href":"https://weather-khalid.netlify.app/"
+        },
+        {
+            "id":"3",
+            "src":"image/Netflix.png",
+            "title":"Api and backend",
+            "description":"It's a team project and we faced a lot of challenges to get movies from API's and generate move cards with React, my task here was to do the home page , navbar and footer",
+            "link":"Visit The Website",
+            "href":"https://team-netflix-app-frontend-react-40hdduzgh-vladyslavpustovit.vercel.app"
+        }
+    ]
+    
+}
