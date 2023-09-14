@@ -26,9 +26,9 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="MyPortfolio"
+                to="AboutMe"
                 className="text-md">
-                Portfolio
+                About Me
               </Link>
             </li>
             <li>
@@ -38,9 +38,9 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="AboutMe"
+                to="MyPortfolio"
                 className="text-md">
-                About Me
+                Portfolio
               </Link>
             </li>
             <li>
@@ -59,28 +59,6 @@ function Footer() {
         </div>
         <div className="footer--social--icon">
           <ul>
-            <li>
-              <a
-                href="https://github.com/loodi181" // Replace with your GitHub profile URL
-                className="navbar--content"
-                target="_blank"
-                rel="noreferrer">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="32"
-                  height="32"
-                  viewBox="0 0 18 18"
-                  fill="black">
-                  <path
-                    fill-rule="evenodd"
-                    clip-rule="evenodd"
-                    d="M8 0C3.582 0 0 3.582 0 8c0 3.54 2.297 6.533 5.47 7.6.4.073.547-.173.547-.384 0-.19-.007-.693-.01-1.36-2.006.367-2.78-.49-2.974-.94-.1-.247-.534-.94-.916-1.13-.31-.15-.746-.52-.013-.53.69-.007 1.18.64 1.34.9.79 1.3 2.05.92 2.54.7.08-.59.31-.92.56-1.13-1.97-.22-4.03-.99-4.03-4.39 0-.97.34-1.76.9-2.38-.09-.23-.39-1.18.09-2.46 0 0 .78-.25 2.55.95.74-.21 1.53-.31 2.32-.31.79 0 1.58.1 2.32.31 1.77-1.2 2.55-.95 2.55-.95.48 1.28.18 2.23.09 2.46.56.62.9 1.41.9 2.38 0 3.41-2.07 4.17-4.05 4.39.32.27.61.81.61 1.64 0 1.19-.01 2.15-.01 2.44 0 .21.14.46.55.38A8.013 8.013 0 0016 8c0-4.418-3.582-8-8-8z"
-                    fill="black"
-                  />
-                </svg>
-              </a>
-            </li>
-
             <li>
               <a
                 href="https://www.linkedin.com/in/khalid181/"

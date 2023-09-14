@@ -1,23 +1,26 @@
+import { Player } from "@lottiefiles/react-lottie-player";
+
 export default function AboutMe() {
-    const imge = require('../../data/about-me.png')
+  const imge = require("../../data/Animation - arrow1.json");
   return (
     <section id="AboutMe" className="about--section">
       <div className="about--section--img">
-        <img src={imge} alt="About Me" />
+        <Player autoplay loop src={imge} />
       </div>
       <div className="hero--section--content--boxabout--section--box">
         <div className="hero--section--content">
           <p className="section--title"></p>
           <h1 className="skills--section--heading">About Me</h1>
           <p className="hero--section--description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-            suscipit quod adipisci nam aperiam nihil, cupiditate deserunt
-            dolorum placeat corrupti!
+            I'm Khalid, a passionate learner currently undergoing professional
+            training at Intec-Brussels in Web Development
           </p>
           <p className="hero--section--description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            esse expedita cum culpa quibusdam, obcaecati eius eum, minus
-            repellendus, placeat ut libero nam! Accusantium, laborum!
+            I'm a passionate web
+            developer dedicated to creating user-friendly digital experiences.
+            With a creative mindset and a commitment to lifelong learning, I
+            turn ideas into engaging websites and applications. I'm excited to
+            contribute to the dynamic world of web development.
           </p>
         </div>
       </div>

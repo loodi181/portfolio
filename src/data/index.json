@@ -3,26 +3,26 @@
     "skills":[
         {
             "id":"1",
-            "src":"/image/feather-pen-1.png",
-            "title":"Front-End",
-            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+            "src":"/image/icons8-ui-80.png",
+            "title":"HTML",
+            "description":"development involves crafting the user interface and user experience of a website or web application"
         },
         {
             "id":"2",
-            "src":"./image/feather-pen-2.png",
-            "title":"Front-End",
+            "src":"./image/icons8-tag-80 (1).png",
+            "title":"CSS",
             "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
         },
         {
             "id":"3",
-            "src":"/image/tag-1.png",
-            "title":"Front-End",
+            "src":"./image/icons8-source-code-80.png",
+            "title":"JavaScript",
             "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
         },
         {
             "id":"4",
-            "src":"/image/product-chain-1.png",
-            "title":"Front-End",
+            "src":"/image/icons8-api-80.png",
+            "title":"React.js",
             "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
         }
     ],
@@ -31,7 +31,7 @@
             "id":"1",
             "src":"/image/3D.png",
             "title":"3D Card",
-            "description":"Create 3D Card using only CSS",
+            "description":"Create 3D Card using only CSS ",
             "link":"Visit The Website",
             "href":"https://animations181.netlify.app/"
         },

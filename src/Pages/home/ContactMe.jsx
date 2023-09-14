@@ -1,7 +1,10 @@
 import React from 'react'
 
+
+
+// After creating contact me components I realize that i could use the buttons instead
 function ContactMe() {
-  return (
+  return ( 
     <section id='Contact' className='contact--section'>
         <div>
 

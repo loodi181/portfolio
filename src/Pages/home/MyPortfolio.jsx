@@ -10,11 +10,13 @@ function MyPortfolio() {
           <p className="sub--title">Recent Projects</p>
           <h2 className="section--heading">My Portfolio</h2>
         </div>
-        <div>
-          <button className="btn btn-github">
-            <IconBrandGithub size={26} stroke={2.5} strokeLinejoin="miter" />
-            Visit My Github
-          </button>
+        <div className="github--link">
+          <a href="https://github.com/loodi181" target="_blank">
+            <button className="btn btn-github">
+              <IconBrandGithub size={26} stroke={2.5} strokeLinejoin="miter" />
+              Visit My Github
+            </button>
+          </a>
         </div>
       </div>
       <div className="portfolio--section--container">
@@ -29,8 +31,8 @@ function MyPortfolio() {
                 <p className="text-lg">{item.description}</p>
               </div>
               <p className="text-md protfolio--link">
-                    {item.link}
                 <a href={item.href}>
+                  {item.link}
                   <IconArrowUpRight
                     size={26}
                     stroke={2}
