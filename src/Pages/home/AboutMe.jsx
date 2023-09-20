@@ -1,7 +1,12 @@
 import { Player } from "@lottiefiles/react-lottie-player";
 
 export default function AboutMe() {
+
+  const isMobile = window.innerWidth <= 1024;
   const imge = require("../../data/Animation - arrow1.json");
+  
+  
+  
   return (
     <section id="AboutMe" className="about--section">
       <div className="about--section--img">

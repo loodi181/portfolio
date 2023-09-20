@@ -11,19 +11,19 @@
             "id":"2",
             "src":"./image/icons8-tag-80 (1).png",
             "title":"CSS",
-            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+            "description":"Isn't just a set of rules; it's a toolkit for crafting digital masterpieces. I love diving into the intricacies of CSS grid, flexbox, and responsive design."
         },
         {
             "id":"3",
             "src":"./image/icons8-source-code-80.png",
             "title":"JavaScript",
-            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+            "description":"Is an essential part of modern web development, enabling interactive and dynamic web applications. Its ability to manipulate the Document Object Model (DOM) allows for real-time updates and user-friendly interfaces."
         },
         {
             "id":"4",
             "src":"/image/icons8-api-80.png",
             "title":"React.js",
-            "description":"lorem asf sdfsdfsd sdfff sdfsffsf sdff asf rvg tybdcedecaa sdghv svnjhmnhgb sdcbb hnmhgfesrgf vc zxcvzscv zc "
+            "description":"As I continue my journey with React.js, I'm excited to collaborate with experienced developers, learn from their expertise, and contribute to meaningful projects that showcase my growing proficiency in building exceptional user interfaces"
         }
     ],
     "portfolio":[
@@ -38,8 +38,8 @@
         {
             "id":"2",
             "src":"image/weather.png",
-            "title":"Front-End",
-            "description":"Front-End Api fetching and display the result to the users, Try it it's cool",
+            "title":"Frontend",
+            "description":"HTML, CSS and JavaScript",
             "link":"Visit The Website",
             "href":"https://weather-khalid.netlify.app/"
         },
@@ -47,9 +47,16 @@
             "id":"3",
             "src":"image/Netflix.png",
             "title":"Api and backend",
-            "description":"It's a team project and we faced a lot of challenges to get movies from API's and generate move cards with React, my task here was to do the home page , navbar and footer",
+            "description":"React, CSS and Tailwind",
             "link":"Visit The Website",
             "href":"https://team-netflix-app-frontend-react-40hdduzgh-vladyslavpustovit.vercel.app"
+        },{
+            "id":"4",
+            "src":"image/project10.png",
+            "title":"Frontend",
+            "description":"React, CSS and Tailwind",
+            "link":"Visit The Website",
+            "href":"https://khal1d.netlify.app"
         }
     ]
     
