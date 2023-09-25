@@ -44,16 +44,13 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to=""
-                className="text-md" id="SendEmail">
-                <a href = "mailto: khalid181ali@gmail.com">Send Email</a>
-              </Link>
+              <a
+                href="mailto:khalid181ali@gmail.com"
+                className="text-md"
+                target="_blank"
+                rel="noreferrer">
+                Email
+              </a>
             </li>
           </ul>
         </div>
