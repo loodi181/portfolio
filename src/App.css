@@ -537,6 +537,11 @@ input[type="checkbox"] {
 /* contact ends */
 
 /* Footer Starts */
+#SendEmail a {
+  text-decoration: none;
+  color: var(--darkblue);
+}
+
 .footer--container {
   display: flex;
   padding: 106.667px 85.333px;

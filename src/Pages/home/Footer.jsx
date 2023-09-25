@@ -50,9 +50,9 @@ function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
-                to="Contact"
-                className="text-md">
-                Contact
+                to=""
+                className="text-md" id="SendEmail">
+                <a href = "mailto: khalid181ali@gmail.com">Send Email</a>
               </Link>
             </li>
           </ul>
