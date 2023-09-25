@@ -4,13 +4,17 @@ export default function AboutMe() {
 
   const isMobile = window.innerWidth <= 1024;
   const imge = require("../../data/Animation - arrow1.json");
+  // const imge2 = require("../../data/Animation - 1695212715580.json");
   
   
   
   return (
     <section id="AboutMe" className="about--section">
       <div className="about--section--img">
-        <Player autoplay loop src={imge} />
+        <Player
+        autoplay
+        loop
+        src={imge } />
       </div>
       <div className="hero--section--content--boxabout--section--box">
         <div className="hero--section--content">
