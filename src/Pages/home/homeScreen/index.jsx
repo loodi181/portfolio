@@ -11,7 +11,7 @@ export default function Home() {
             <AboutMe />
             <MyPortfolio />
             <MySkills />
-            <Footer />
+            <Footer /> 
         </>
     )
 }
